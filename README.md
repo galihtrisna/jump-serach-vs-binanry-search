@@ -9,4 +9,4 @@ Repositori ini berisi implementasi dan analisis dari dua algoritma pencarian, **
 ## Hasil Analisis
 Berikut adalah poster yang menunjukkan hasil analisis performa kedua algoritma:
 
-![Hasil Analisis](https://i.ibb.co/Rzg38d6/AKA.png)
+![Hasil Analisis](https://i.ibb.co.com/j5ZxVsm/AKA-1.png)
